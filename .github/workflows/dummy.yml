@@ -44,7 +44,7 @@ jobs:
               TG_BOT_TOKEN="${{ secrets.TG_BOT_TOKEN }}"
               GITLAB_EMAIL="${{ secrets.GITLAB_EMAIL }}"
               TG_CHAT_ID="@boxdumps"
-              GITLAB_HOSTNAME="gitlab.com" ## use 'gitlab.com' by default, or use your own github instance, or any public one
+              GITLAB_HOSTNAME="gitgud.io" ## use 'gitlab.com' by default, or use your own github instance, or any public one
               #echo "$GITLAB_ORG_NAME" > .orgname
               #echo "$GITLAB_HOSTNAME" > .gitlab_instance
               #echo "$GIT_GITHUB_TOKEN" > .github_token
